@@ -1,0 +1,302 @@
+
+.logo{
+    width: 50px;
+    margin-right: 30px;
+}
+.logo2x{
+    width: 70px;
+    margin-bottom: 20px;
+}
+.page-cont{
+    
+}
+.baseKey{
+    width: 766px;
+    background-color: gainsboro;
+    height: 270px;
+    padding: 10px;
+    text-align: left;
+    border-radius: 10px;
+    -webkit-box-shadow: 2px 3px 10px -3px #000000; 
+    box-shadow: 2px 3px 10px -3px #000000;
+}
+.k{
+    margin-left: 4px;
+}
+.k1{
+    background-color: white;
+    text-align: center;
+    border-radius: 8px;
+    -webkit-box-shadow: 2px 3px 10px -3px #000000; 
+    box-shadow: 2px 3px 10px -3px #000000;
+    width: 45px;
+    height: 40px;
+    display: inline-block;
+}
+.k2{
+    background-color: white;
+    text-align: center;
+    border-radius: 8px;
+    -webkit-box-shadow: 2px 3px 10px -3px #000000; 
+    box-shadow: 2px 3px 10px -3px #000000;
+    width: 100px;
+    height: 40px;
+    display: inline-block;
+}
+.k3{
+    background-color: white;
+    text-align: center;
+    border-radius: 8px;
+    -webkit-box-shadow: 2px 3px 10px -3px #000000; 
+    box-shadow: 2px 3px 10px -3px #000000;
+    width: 70px;
+    height: 40px;
+    display: inline-block;
+}
+.k4{
+    background-color: white;
+    text-align: center;
+    border-radius: 8px;
+    -webkit-box-shadow: 2px 3px 10px -3px #000000; 
+    box-shadow: 2px 3px 10px -3px #000000;
+    width: 83px;
+    height: 40px;
+    display: inline-block;
+}
+.k5{
+    background-color: white;
+    text-align: center;
+    border-radius: 8px;
+    -webkit-box-shadow: 2px 3px 10px -3px #000000; 
+    box-shadow: 2px 3px 10px -3px #000000;
+    width: 60px;
+    height: 40px;
+    display: inline-block;
+}
+.k6{
+    background-color: white;
+    text-align: center;
+    border-radius: 8px;
+    -webkit-box-shadow: 2px 3px 10px -3px #000000; 
+    box-shadow: 2px 3px 10px -3px #000000;
+    width: 132px;
+    height: 40px;
+    display: inline-block;
+}
+.k7{
+    position: absolute;
+    margin-left: 7px;
+    background-color: white;
+    text-align: center;
+    border-radius: 8px 8px 0px 8px;
+    -webkit-box-shadow: 2px 3px 10px -3px #000000; 
+    box-shadow: 2px 3px 10px -3px #000000;
+    width: 70px;
+    height: 40px;
+    display: inline-block;
+}
+.k8{
+    position: absolute;
+    margin-left: 7px;
+    background-color: white;
+    text-align: center;
+    border-radius: 0px 0px 8px 8px;
+    -webkit-box-shadow: 2px 3px 10px -3px #000000; 
+    box-shadow: 2px 8px 10px -5px #000000;
+    width: 45px;
+    height: 47px;
+    display: inline-block;
+    margin-top: 40px;
+    margin-left: 32px;
+}
+.k9{
+    position: absolute;
+    margin-left: 7px;
+    background-color: white;
+    text-align: center;
+    border-radius: 0px 0px 8px 8px;
+    -webkit-box-shadow: 2px 3px 10px -3px #000000; 
+    box-shadow: 2px 9px 10px -3px #000000;
+    width: 45px;
+    height: 47px;
+    display: inline-block;
+    margin-top: 30px;
+    margin-left: 32px;
+}
+.k10{
+    background-color: white;
+    text-align: center;
+    border-radius: 8px;
+    -webkit-box-shadow: 2px 3px 10px -3px #000000; 
+    box-shadow: 2px 3px 10px -3px #000000;
+    width: 450px;
+    height: 40px;
+    display: inline-block;
+}
+.fila{
+    margin-top: 8px;
+}
+.colCorrecto{
+    background-color: skyblue;
+    text-align: center;
+    color: white;
+    padding:5px
+}
+.colIncorrecto{
+    background-color: salmon;
+    text-align: center;
+    color: white;
+    padding:5px
+}
+.pC{
+    background-color: transparent;
+}
+.textoIte{
+    border-radius: 8px;
+    -webkit-box-shadow: 2px 3px 10px -3px #000000; 
+    box-shadow: 2px 3px 5px -3px #000000;
+    width: 80%;
+    border:1px solid #003399;
+    padding: 10px;
+    text-align: left;
+    font-size: 13px;
+}
+.spanDone{
+    color:#003399;
+    font-weight: bold;
+}
+.spanMis{
+    color: #929292;
+    font-style: italic;
+}
+.spanMal{
+    color:red;
+}
+.iTab{
+    margin-left: 0px;
+    margin-right: 0px;
+    color: #eaeaea
+}
+.iReturn{
+    color: #eaeaea;
+    margin: 0px;
+}
+.malTab{
+    margin-left: 0px;
+    margin-right: 0px;
+    color: red;
+}
+.malSpace{
+    margin-left: 0px;
+    margin-right: 0px;
+    color: red;
+}
+.malReturn{
+    color: red;
+    margin: 0px;
+}
+.bienTab{
+    margin-left: 0px;
+    margin-right: 0px;
+    color: #003399;
+}
+.bienReturn{
+    color: #003399;
+    margin: 0px;
+}
+
+#texta{
+    width: 30%;
+    height: 30px;
+    border:0px;
+    position: absolute;
+    margin-top: 5px;
+    left:0px;
+}
+#cubre{
+    position:absolute;
+    background-color: white;
+    width: 100%;
+    height: 80px;
+    opacity: 1;
+}
+#wrap-texta{
+    margin-top: 0px;
+}
+#test{
+    margin-top: 0px;
+}
+.textoJuego{
+    width: 100%;
+}
+.btnInvisible{
+    display: none;
+}
+.btnMTC{
+    margin: 0px 5px 0px 5px; 
+}
+.btnMTChide{
+    display: none;
+}
+.isRunning{
+    margin-bottom:5px;
+}
+.corriendoW{
+    color:green;
+    margin-bottom:5px;
+    margin-top:0px;
+}
+.pausaW{
+    color:#003399;
+    margin-bottom:5px;
+    margin-top:0px;
+}
+.indicacionesP{
+    text-align: center;
+    margin-bottom: 2px;
+    color:#003399;
+    font-style: italic;
+    font-size: 14px;
+    margin-top:5px;
+}
+#msgGuardar{
+    margin-bottom: 10px;
+}
+.formFilter{
+    margin-top: 20px;
+    margin-bottom:10px;
+}
+.col-filter{
+    text-align: left;
+}
+#msgGuardar{
+    position: absolute;
+    width: 150px;
+    left: 50%;
+    margin-left: -75px;
+}
+.Footer{
+    margin-top:30px;
+    background-color: #2e3238;
+    color:white;
+    min-height: 150px;
+    padding:20px 0px 20px 0px;
+}
+.infoD{
+    float: right;
+}
+.infoIz{
+    text-decoration-style: wavy;
+    font-weight: bold;
+}
+.new-line {
+    white-space: pre-line;
+}
+.rowInfo{
+    border:1px solid gray;
+    padding:10px;
+    border-radius: 10px;
+    margin-bottom: 17px;
+    -webkit-box-shadow: 5px 8px 14px -3px #000000; 
+    box-shadow: 5px 8px 14px -3px #000000;
+}

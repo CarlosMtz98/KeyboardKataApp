@@ -1,0 +1,16 @@
+p{
+    background-color: red;
+
+}
+h1{
+    color: blue;
+}
+
+.clase1{
+    font-size: 25px;
+    color: goldenrod;
+}
+#id1{
+    color: white;
+    background-color: thistle;
+}
