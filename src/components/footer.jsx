@@ -8,7 +8,7 @@ class Footer extends React.Component{
       <div className="Stats container-fluid Footer">
         <div className="row">
             <div className="col-12">
-            <img src={tecLogo} alt="logoTec" className="logo2x"/>
+            <img src={tecLogo} alt="logoTec" className="logo-tec-footer"/>
             <h5>
                 Instituto Tecnológico y de Estudios Superiores de Monterrey<br/>
                 Campus Estado de México<br/><br/>

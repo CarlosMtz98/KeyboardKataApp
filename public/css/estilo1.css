@@ -3,7 +3,7 @@
     width: 50px;
     margin-right: 30px;
 }
-.logo2x{
+.logo-tec-footer{
     width: 70px;
     margin-bottom: 20px;
 }
@@ -206,9 +206,13 @@
 }
 
 #texta{
+    color: transparent;
+    outline: none;
+    border-style: none;
+    border-color: transparent;
     width: 30%;
-    height: 30px;
-    border:0px;
+    height: 0;
+    border: 0px !important;
     position: absolute;
     margin-top: 5px;
     left:0px;

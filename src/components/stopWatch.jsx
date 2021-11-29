@@ -12,8 +12,6 @@ function Watch() {
     reset,
   } = useStopwatch({ autoStart: true });
 
-
-
   return (
     <div style={{textAlign: 'center',marginTop:'0px'}}>
       <input type="hidden" id="horas" value={hours} readOnly/>
@@ -42,23 +40,3 @@ export default function App(props) {
     </div>
   );
 }
-
-
-
-/*
-<div style={{textAlign: 'center'}}>
-      <h1>react-timer-hook</h1>
-      <p>Stopwatch Demo</p>
-      <div style={{fontSize: '20px'}}>
-        <span>{days}</span>:<span>{hours}</span>:<span>{minutes}</span>:<span>{seconds}</span>
-      </div>
-      <p>{isRunning ? 'Running' : 'Not running'}</p>
-      <div id="watchStart" className="btnInvisible" onClick={start}>Iniciar</div>
-      <div id="watchPause" className="btnInvisible" onClick={pause}>Pausar</div>
-      <div id="watchReset" className="btnInvisible" onClick={() => {
-        const time = new Date();
-        time.setSeconds(time.getSeconds() + 0);
-        reset(time,false)
-      }}>Restart</div>
-    </div>
-*/
